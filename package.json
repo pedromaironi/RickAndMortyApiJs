@@ -1,0 +1,19 @@
+{
+    "name": "rickandmorti",
+    "version": "1.0.0",
+    "description": "This project is to consume the Rick and Morti api and work the asynchronism",
+    "main": "src/index.js",
+    "scripts": {
+        "callback": "node src/index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/pedromaironi/RickAndMortyApiJs.git"
+    },
+    "author": "Pedro Maironi Toribio",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/pedromaironi/RickAndMortyApiJs/issues"
+    },
+    "homepage": "https://github.com/pedromaironi/RickAndMortyApiJs#readme"
+}
