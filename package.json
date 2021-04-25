@@ -15,5 +15,8 @@
     "bugs": {
         "url": "https://github.com/pedromaironi/RickAndMortyApiJs/issues"
     },
-    "homepage": "https://github.com/pedromaironi/RickAndMortyApiJs#readme"
+    "homepage": "https://github.com/pedromaironi/RickAndMortyApiJs#readme",
+    "dependencies": {
+        "xmlhttprequest": "^1.8.0"
+    }
 }
